@@ -13,7 +13,7 @@
 
 ## დოკუმენტაცია
 
-| რესურსი | საიტი |
-|---|---|
-| GIS (Open-Source) ქართული დოკუმენტაცია | [osdoc.qgis.ge](https://osdoc.qgis.ge/) |
-| Geographic Information Systems (GIS), სტუ | [gtu.qgis.ge](http://gtu.qgis.ge/) |
+| რესურსი | საიტი | რეპო |
+|---|---|---|
+| GIS (Open-Source) ქართული დოკუმენტაცია | [osdoc.qgis.ge](https://osdoc.qgis.ge/) | |
+| Geographic Information Systems (GIS), სტუ | [gtu.qgis.ge](https://gtu.qgis.ge/) | [GTU-GIS](https://github.com/GIS-Edu-Georgia/GTU-GIS) |
