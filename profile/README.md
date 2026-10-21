@@ -15,5 +15,5 @@
 
 | რესურსი | საიტი | რეპო |
 |---|---|---|
-| GIS (Open-Source) ქართული დოკუმენტაცია | [osdoc.qgis.ge](https://osdoc.qgis.ge/) | |
+| GIS (Open-Source) ქართული დოკუმენტაცია | [osdoc.qgis.ge](https://osdoc.qgis.ge/) | [GIS_OS_Doc](https://github.com/GIS-Edu-Georgia/GIS_OS_Doc) |
 | Geographic Information Systems (GIS), სტუ | [gtu.qgis.ge](https://gtu.qgis.ge/) | [GTU-GIS](https://github.com/GIS-Edu-Georgia/GTU-GIS) |
